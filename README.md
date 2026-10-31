@@ -65,9 +65,9 @@ I build across the stack — from low-level systems and embedded devices to desk
 ### 📫 Connect With Me
 
 <!-- Replace # with your actual links -->
-<a href="#"><img src="https://skillicons.dev/icons?i=https://www.linkedin.com/in/neazimam" height="35" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=/in/neazimam" height="35" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vdjimam24@gmail.com" height="35" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=https://github.com/Neazimam" height="35" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=Neazimam" height="35" /></a>
 
 </div>
 
