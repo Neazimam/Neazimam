@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Neazimam 👋
+# Hi there, I'm Neaz Imam 👋
 
-### Software Developer · Systems Programmer · Robotics & IoT Enthusiast · Reverse Engineer
+### Software Developer · Systems Programmer · Robotics & IoT Enthusiast
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EAGLE&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Neazimam&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neazimam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vdjimam24@gmail.com)
 
 </div>
 
@@ -50,29 +52,28 @@ I build across the stack — from low-level systems and embedded devices to desk
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EAGLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EAGLE&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neazimam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neazimam&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neazimam&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 <div align="center">
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-<!-- Replace # with your actual links -->
-<a href="#"><img src="https://skillicons.dev/icons?i=/in/neazimam" height="35" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vdjimam24@gmail.com" height="35" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=Neazimam" height="35" /></a>
+<a href="https://www.linkedin.com/in/neazimam/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:vdjimam24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Neazimam"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>⚡ Thanks for stopping by!</sub>
+<sub>⚡ Thanks for visiting my profile!</sub>
 </div>
