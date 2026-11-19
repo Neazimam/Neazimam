@@ -10,6 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neazimam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vdjimam24@gmail.com)
 
+<br/>
+
+<a href="https://discord.com/users/1091962248408338515">
+  <img src="https://lanyard.cnrad.dev/api/1091962248408338515?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Chilling" />
+</a>
+
 </div>
 
 ---
